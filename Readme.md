@@ -1,4 +1,4 @@
-# Proyecto Django y Vue con SQLite3
+# Proyecto Django con SQLite3
 
 Este es un proyecto desarrollado en Django para el backend y pensado para ser integrado con un frontend de agencia de autos.
 
